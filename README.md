@@ -1,6 +1,6 @@
 # 🐾 Meow! 
 Hi! I'm Leo
-- Have a 5 years programming experience. Mostly in python and a bit in other languases
+- Have a 5 years programming experience. Mostly in python and a bit in other languages
   - studying machine learning
 - Currently interested in Ancient Studies and Classical Education
 
