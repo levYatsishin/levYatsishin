@@ -1,7 +1,8 @@
 # 🐾 Meow
 Hi! I'm Leo
-- I have some background in programming, mostly in Python. Currently studying machine learning
-- Interested in Ancient Studies and Classical Education
+- I have some background in programming, mostly in Python
+    - studying machine learning
+- Currently interested in Ancient Studies and Classical Education
 #### My CV: [Leo Yatsishin Résumé.pdf](https://raw.githubusercontent.com/levYatsishin/levYatsishin/main/Leo_Yatsisishin_resume.pdf)
 
 ## 🌟 My achievements 
