@@ -1,4 +1,4 @@
-# 🐾 Meow! 
+# 🐾 Meow
 Hi! I'm Leo
 - I have some background in programming, mostly in Python. Currently studying machine learning
 - Interested in Ancient Studies and Classical Education
