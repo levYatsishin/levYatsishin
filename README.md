@@ -1,4 +1,4 @@
-Hi! I'm Leo
+## 🐾 Hi! I'm Leo
 - I have some background in programming, mostly in Python
     - studying machine learning
 - Currently interested in Ancient Studies and Classical Education
